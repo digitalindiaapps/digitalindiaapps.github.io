@@ -1,9 +1,5 @@
 {
-  "apps": [
-    {
-      "img": "Jane Doe",
-      "urls": "888-555-1212"
-    },
+  "com.digitalindiaapps.kabirkedohe": [
     {
       "img": "Jane Doe",
       "urls": "888-555-1212"
