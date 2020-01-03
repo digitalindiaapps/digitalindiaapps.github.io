@@ -1,5 +1,5 @@
 {
-  "kabirkedohe": [
+   kabirkedohe: [
     {
       "img": "https://digitalindiaapps.github.io/icons/jaybhimstatus.png",
       "urls": "https://play.google.com/store/apps/details?id=com.rv.jaybhimstatus"
@@ -13,7 +13,7 @@
       "urls": "https://play.google.com/store/apps/details?id=com.digitalindiaapps.love_story"
     }
   ],
-   "chamarstatus": [
+  chamarstatus: [
     {
       "img": "https://digitalindiaapps.github.io/icons/jaybhimstatus.png",
       "urls": "https://play.google.com/store/apps/details?id=com.rv.jaybhimstatus"
